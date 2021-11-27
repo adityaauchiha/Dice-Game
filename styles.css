@@ -27,10 +27,14 @@ p {
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
+.name{
+  color: aliceblue;
+}
 
 img {
   width: 80%;
 }
+
 
 footer {
   margin-top: 5%;
